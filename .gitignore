@@ -1,4 +1,7 @@
+# don’t track dist
+dist/
 
+# =======================================================================
 # Created by https://www.gitignore.io/api/osx,gpg,node,compressedarchive
 
 ### CompressedArchive ###
