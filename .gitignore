@@ -2,6 +2,9 @@
 dist/
 build/
 
+# don't track yarn cache
+.cache/
+
 # =======================================================================
 # Created by https://www.gitignore.io/api/osx,gpg,node,compressedarchive
 
