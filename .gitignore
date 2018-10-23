@@ -1,5 +1,6 @@
-# don’t track dist
+# don’t track dist/build folders
 dist/
+build/
 
 # =======================================================================
 # Created by https://www.gitignore.io/api/osx,gpg,node,compressedarchive
